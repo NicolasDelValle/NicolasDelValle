@@ -1,7 +1,8 @@
 <div align="center">
+  <p><img  src="https://github.com/NicolasDelValle/NicolasDelValle/blob/main/banda.gif" alt="nicolasdelvalle" /></p>
   <h1 >Hi 👋, I'm Nicolás Del Valle</h1>
   <h3 align="center">Full Stack Developer Jr</h3>
-  <p><img  src="https://github.com/NicolasDelValle/NicolasDelValle/blob/main/banda.gif" alt="nicolasdelvalle" /></p>
+  
 </div>
 
 
