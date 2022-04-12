@@ -1,6 +1,6 @@
-<div>
-<h1 align="center">Hi 👋, I'm Nicolás Del Valle</h1>
-  
+<div align="center">
+  <h1 >Hi 👋, I'm Nicolás Del Valle</h1>
+  <p><img  src=" https://github.com/NicolasDelValle/NicolasDelValle/blob/main/banda.gif" alt="nicolasdelvalle" /></p>
 </div>
 
 
