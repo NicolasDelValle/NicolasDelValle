@@ -15,13 +15,10 @@
 </td><td valign="top">
 
 ### Stats
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasdelvalle&show_icons=true&locale=en" alt="nicolasdelvalle" /></p>
   
    <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdelvalle&show_icons=true&locale=en&layout=compact"             alt="nicolasdelvalle" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasdelvalle&" alt="nicolasdelvalle" /></p>
-  
+ 
 </td></tr></table>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasdelvalle&show_icons=true&locale=en" alt="nicolasdelvalle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasdelvalle&" alt="nicolasdelvalle" /></p>
