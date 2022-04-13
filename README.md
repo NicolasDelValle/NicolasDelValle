@@ -20,7 +20,7 @@
  
 </td></tr></table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasdelvalle&show_icons=true&locale=en" alt="nicolasdelvalle" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nicolasdelvalle&show_icons=true&locale=en" alt="nicolasdelvalle" /></p>
 
 
 
