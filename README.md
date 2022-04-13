@@ -22,5 +22,5 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nicolasdelvalle&show_icons=true&locale=en" alt="nicolasdelvalle" /></p>
 
-<p align="center"><img width="60" height="60" src="img/pepolife.jpg" alt="nicolasdelvalle" /></p>
+<p align="center"><img width="120" height="120" src="img/pepolife.jpg" alt="nicolasdelvalle" /></p>
 
