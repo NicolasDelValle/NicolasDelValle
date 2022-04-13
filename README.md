@@ -10,7 +10,7 @@
 
 ### Portfolio
 
-[summarize-template 0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
+[Ecommerce - LOSI](https://losi.vercel.app/) - student project
 
 </td><td valign="top">
 
