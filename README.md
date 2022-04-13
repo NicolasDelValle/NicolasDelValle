@@ -9,10 +9,8 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-### Portfolio
-      <!-- portfolio starts -->
-      - [E-commerce LOSI](https://losi.vercel.app/)
-      <!-- portfolio ends -->
+<h3 align="center">Portfolio</h3>
+      
     </td>
     <td valign="top" width="50%">
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdelvalle&show_icons=true&locale=en&layout=compact" alt="nicolasdelvalle" /></p>
