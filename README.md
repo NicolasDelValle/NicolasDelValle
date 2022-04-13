@@ -16,7 +16,8 @@
 
 ### Stats
 
+   <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdelvalle&show_icons=true&locale=en&layout=compact"             alt="nicolasdelvalle" /></p>
 
 </td></tr></table>
 
- <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdelvalle&show_icons=true&locale=en&layout=compact"             alt="nicolasdelvalle" /></p>
+
