@@ -9,28 +9,13 @@
 <table><tr><td valign="top">
 
 ### Portfolio
-<!-- recent_releases starts -->
+
 [summarize-template 0.1](https://github.com/simonw/summarize-template/releases/tag/0.1) - 2022-04-13
 
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top">
 
-### On my blog
-<!-- blog starts -->
-[Pillar Point Stewards, pypi-to-sqlite, improvements to shot-scraper and appreciating datasette-dashboards](http://simonwillison.net/2022/Apr/8/weeknotes/) - 2022-04-08
+### Stats
 
-[Weeknotes: datasette-auth0](http://simonwillison.net/2022/Mar/28/datasette-auth0/) - 2022-03-28
-
-[Datasette 0.61: The annotated release notes](http://simonwillison.net/2022/Mar/24/datasette-061/) - 2022-03-24
-
-[SQLite Happy Hour - a Twitter Spaces conversation about three interesting projects building on SQLite](http://simonwillison.net/2022/Mar/23/sqlite-happy-hour/) - 2022-03-23
-
-[Weeknotes: Tildes not dashes, and the big refactor](http://simonwillison.net/2022/Mar/19/weeknotes/) - 2022-03-19
-
-[Instantly create a GitHub repository to take screenshots of a web page](http://simonwillison.net/2022/Mar/14/shot-scraper-template/) - 2022-03-14
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
 
 </td></tr></table>
 
