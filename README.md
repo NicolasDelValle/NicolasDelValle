@@ -11,7 +11,7 @@
     <td valign="top" width="50%">
 ### Portfolio
       <!-- portfolio starts -->
-      [E-commerce - LOSI](https://losi.vercel.app/) - Student project
+      [E-commerce - LOSI](https://losi.vercel.app/)
       <!-- portfolio ends -->
     </td>
     <td valign="top" width="50%">
