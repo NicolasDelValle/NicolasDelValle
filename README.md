@@ -1,5 +1,4 @@
 <div align="center">
-  <p><img  src="img/banda.gif" alt="nicolasdelvalle" /></p>
   <h1 >Hi 👋, I'm Nicolás Del Valle</h1>
   <h3 align="center">Full Stack Developer Jr</h3>
 </div>
@@ -22,5 +21,5 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nicolasdelvalle&show_icons=true&locale=en" alt="nicolasdelvalle" /></p>
 
-<p align="center"><img width="120" height="120" src="img/pepolife.jpg" alt="nicolasdelvalle" /></p>
+<p align="center"><img src="img/banda.gif" alt="nicolasdelvalle" /></p>
 
