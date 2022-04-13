@@ -13,9 +13,9 @@
       
     </td>
     <td valign="top" width="50%">
-     a
+     <h3 align="center">Portfolio</h3>
     </td>
   </tr>
 </table>
 
-
+ <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasdelvalle&show_icons=true&locale=en&layout=compact"             alt="nicolasdelvalle" /></p>
