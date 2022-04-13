@@ -20,11 +20,11 @@
  
 </td></tr></table>
 
-<table align="center"><tr><td valign="top">
+<table align="center"><tr><td>
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasdelvalle&show_icons=true&locale=en" alt="nicolasdelvalle" /></p>
   
-</td><td valign="top">
+</td><td>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasdelvalle&" alt="nicolasdelvalle" /></p>
   
